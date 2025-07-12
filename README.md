@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nguyen Viet Hoang - Portfolio Website
 
 This is a React + Tailwind CSS personal portfolio website, designed and built by Nguyen Viet Hoang.
@@ -19,3 +20,6 @@ npm install
 npm run build
 npm run deploy
 ```
+=======
+# portfolio
+>>>>>>> a716300a997fb5cf03f489debf93244251bfc8ac
